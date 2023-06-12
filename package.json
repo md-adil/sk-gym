@@ -1,0 +1,10 @@
+{
+    "name": "sk-fitness-gym",
+    "homepage": "https://md-adil.github.io/sk-gym",
+    "scripts": {
+        "deploy": "gh-pages -d ."
+    },
+    "devDependencies": {
+        "gh-pages": "^5.0.0"
+    }
+}
